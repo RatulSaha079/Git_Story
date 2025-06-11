@@ -1,1 +1,4 @@
 Git is a popular version control system.
+
+What is Repository?
+    A Git repository is a folder that Git tracks for changes.
