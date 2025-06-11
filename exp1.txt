@@ -3,5 +3,8 @@ Git Commands:
 git init
 git status
 git add
-git commit 
+git commit -m "Message"
 git log
+git remote add remote-name <url>
+git branch -M branch-name
+git push remote-name branch-name 
